@@ -1,0 +1,40 @@
+body {
+    background-image: url("tech.jpg");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center; }
+  
+  .container {
+    text-shadow: black 0.04em 0.04em 0.05em; }
+  
+  .jumbotron {
+    background-color: transparent;
+    color: #2ffffc;
+    display: inline-block; }
+  
+  .light-shadow {
+    text-shadow: black 0.02em 0.02em 0.05em; }
+  
+  .major {
+    color: #2ffffc; }
+  
+  .minor {
+    color: #00e2de; }
+  
+  .details {
+    color: #00bebb; }
+  
+  .icon {
+    color: #2ffffc;
+    padding: 1em; }
+    .icon:hover {
+      color: #009593; }
+  
+  #text-box {
+    padding: 20px;
+    background: #222222;
+    /* for IE */
+    background: rgba(34, 34, 34, 0.75); }
